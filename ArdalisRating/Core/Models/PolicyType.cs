@@ -1,8 +1,5 @@
-﻿using System;
-
-namespace ArdalisRating
+﻿namespace ArdalisRating.Core.Models
 {
-
     public enum PolicyType
     {
         Life = 0,
